@@ -1,5 +1,5 @@
 To run the experiments:
-  - export $PYTHONPATH=<ROOT DIR OF THIS REPO>
+  - export $PYTHONPATH=\<ROOT DIR OF THIS REPO\>
   - `python utils/main.py` (+ args)
   - argument `lpc` (labels per class) specifies how many labels are not masked (leave it empty for full supervision)
 
