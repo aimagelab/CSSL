@@ -1,3 +1,6 @@
+Official code implementation for "Continual Semi-Supervised Learning through Contrastive Interpolation Consistency" - Accepted at [Pattern Recognition Letters 2022](https://www.sciencedirect.com/science/article/pii/S0167865522002458)  
+
+
 To run the experiments:
   - export $PYTHONPATH=\<ROOT DIR OF THIS REPO\>
   - `python utils/main.py` (+ args)
